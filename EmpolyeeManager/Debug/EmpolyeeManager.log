@@ -1,0 +1,17 @@
+﻿  EmpolyeeManager.cpp
+c:\users\tony\documents\github\empolyeemanager\empolyeemanager\empolyeemanager.cpp(20): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(132): note: 参见“strcpy”的声明
+c:\users\tony\documents\github\empolyeemanager\empolyeemanager\empolyeemanager.cpp(21): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(132): note: 参见“strcpy”的声明
+c:\users\tony\documents\github\empolyeemanager\empolyeemanager\empolyeemanager.cpp(22): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(132): note: 参见“strcpy”的声明
+c:\users\tony\documents\github\empolyeemanager\empolyeemanager\empolyeemanager.cpp(23): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(132): note: 参见“strcpy”的声明
+c:\users\tony\documents\github\empolyeemanager\empolyeemanager\empolyeemanager.cpp(100): warning C4244: “初始化”: 从“std::streamoff”转换到“int”，可能丢失数据
+c:\users\tony\documents\github\empolyeemanager\empolyeemanager\empolyeemanager.cpp(143): warning C4244: “初始化”: 从“std::streamoff”转换到“int”，可能丢失数据
+c:\users\tony\documents\github\empolyeemanager\empolyeemanager\empolyeemanager.cpp(184): warning C4244: “初始化”: 从“std::streamoff”转换到“int”，可能丢失数据
+c:\users\tony\documents\github\empolyeemanager\empolyeemanager\empolyeemanager.cpp(226): warning C4244: “初始化”: 从“std::streamoff”转换到“int”，可能丢失数据
+c:\users\tony\documents\github\empolyeemanager\empolyeemanager\empolyeemanager.cpp(276): warning C4244: “初始化”: 从“std::streamoff”转换到“int”，可能丢失数据
+c:\users\tony\documents\github\empolyeemanager\empolyeemanager\empolyeemanager.cpp(315): warning C4244: “初始化”: 从“std::streamoff”转换到“int”，可能丢失数据
+c:\users\tony\documents\github\empolyeemanager\empolyeemanager\empolyeemanager.cpp(350): warning C4244: “初始化”: 从“std::streamoff”转换到“int”，可能丢失数据
+  EmpolyeeManager.vcxproj -> C:\Users\tony\Documents\GitHub\EmpolyeeManager\Debug\EmpolyeeManager.exe
